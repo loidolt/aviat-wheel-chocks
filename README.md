@@ -1,53 +1,26 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 3/25/2019
+tags: Woodworking CNC
+description: Making wheel chocks for Aviat to include with their Husky airplanes.
+slug: aviat-wheel-chocks
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Aviat Wheel Chocks
+Making wheel chocks for Aviat to include with their Husky airplanes.
 
 ## Table of Contents
-- [Title](#title)
+- [Aviat Wheel Chocks](#aviat-wheel-chocks)
   - [Table of Contents](#table-of-contents)
-  - [General Info](#general-info)
+  - [First Attempt](#first-attempt)
+  - [Second Attempt](#second-attempt)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
-## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## First Attempt
+Aviat reached out to me to build them some custom wheel chocks to include with their Husky airplanes. This is the first attempt to create those. Our initial idea was to make a silicone mold and roto-cast the chocks using urethane before filling them with expanding foam. Unfortunately, this plane didn't work very well primarily due to the geometry of the part but also due to my lack of roto-casting experience.
+
+## Second Attempt
+Second, and more successful, attempt to make wheel chocks for Aviat. After the failure of the first method, we decided to carve them all individually on the CNC. A custom jig was made, all the chocks were carved, and they were finished with a heavy dip in yellow enamel paint.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Fusion 360
